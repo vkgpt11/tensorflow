@@ -1,4 +1,4 @@
-# Tensorflow:
+# Tensorflow
 * Open source software library for numerical computation using data flow graphs. 
 * Originally developed by Google Brain Team to conduct machine learning and deep neural networks research
 * TensorFlow provides an extensive suite of functions and classes that allow users to build various models from scratch.
