@@ -16,5 +16,12 @@ Repository contains
    Here, Explained about what is tenssorflow and how to create and manage graphs, subgraphs & session.
    How one can distribute the computation and run them parallelly across multiple CPUs, Gpus or devies.
    described about lifecycle of a Tensorflow node.
+
 2. [Tensorboard-Visualization](https://github.com/vkgpt11/tensorflow/blob/master/TensorBoard%20-%20Visualizing%20Learning.ipynb)
    Show how you can visualize the simple graph
+
+3. [Constants in Tensorflow](http://localhost:8888/notebooks/tensorflow/Tensorflow%20-%20Constants.ipynb)
+   TensorFlow provides several operations that you can use to generate constants. Like: generating Constants, Sequences, and Random Values
+
+
+
