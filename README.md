@@ -11,7 +11,8 @@
 * Auto-differentiation autodiff (no more taking derivatives by hand)
 * Large community
 
-Repository contains 
+### Repository Contains:
+
 1. [Introduction to Tensorflow](https://github.com/vkgpt11/tensorflow/blob/master/Tensorflow.ipynb)
    Here, Explained about what is tenssorflow and how to create and manage graphs, subgraphs & session.
    How one can distribute the computation and run them parallelly across multiple CPUs, Gpus or devies.
