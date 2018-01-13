@@ -2,6 +2,7 @@
 * Open source software library for numerical computation using data flow graphs. 
 * Originally developed by Google Brain Team to conduct machine learning and deep neural networks research
 * TensorFlow provides an extensive suite of functions and classes that allow users to build various models from scratch.
+
 # Why TensorFlow?
 * Python API
 * Portability: CPUs or GPUs in a desktop, server, or mobile device with a single API
@@ -32,5 +33,11 @@
 
 6. [Variables in Tensorflow](https://github.com/vkgpt11/tensorflow/blob/master/6.%20Tensorflow%20-%20Variables.ipynb)
    Why and when to use variables over constants, use of variables - Declare, initialize and Evaluate
+
+7. [Placeholders in Tensorflow](https://github.com/vkgpt11/tensorflow/blob/master/7.%20Tensorflow-Placeholder.ipynb)
+   Supply value of variables later, avoid saving to graphs
+   
+8. [Misc Topics in Tensorflow](https://github.com/vkgpt11/tensorflow/blob/master/8.%20Misc%20Topics%20.ipynb)
+   Interactive session, control dependency, lazy loading
 
 
